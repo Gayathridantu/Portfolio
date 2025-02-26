@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: "poopins",sans-serif;
 }
+a{
+    text-decoration: none;
+}
 /*Variable declaration*/
 :root{
     --body-color:rgba(250,250,250);
